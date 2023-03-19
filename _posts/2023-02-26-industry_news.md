@@ -8,9 +8,9 @@ sidebar:
 search: true
 
 # 제목, 카테고리, 태그
-title:  "[Industry News] 2023년 1월"
-categories: "IT_News"
-tag: [ai, big data, ces 2023, digital twin]
+title:  "[IT_Topic_News] 디지털 트윈과 CES 2023"
+categories: "IT_Topic_News"
+tag: [CES 2023, 디지털 트윈]
 ---
 
 # 머리말
