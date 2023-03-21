@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "이진우"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/화면 캡처 2023-03-21 102253.png"
   bio              : "이진우의 IT 블로그입니다.<br/>**카테고리**를 클릭해주세요!"
   location         : "South korea"
   email            : #이메일 주소
