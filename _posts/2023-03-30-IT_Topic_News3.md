@@ -9,7 +9,7 @@ author_profile: false
 search: true
 
 # 제목, 카테고리, 태그
-title:  "[Global_Data_Issue] 2023년 3월"
+title:  "[IT_Topic_News] 2023년 3월"
 categories: "Global_Data_Issue"
 tag: [Big Data, AI]
 ---
