@@ -10,7 +10,7 @@ search: true
 
 # 제목, 카테고리, 태그
 title:  "[IT_Topic_News] 2023년 3월"
-categories: "Global_Data_Issue"
+categories: "IT_Topic_News"
 tag: [Big Data, AI]
 ---
 
