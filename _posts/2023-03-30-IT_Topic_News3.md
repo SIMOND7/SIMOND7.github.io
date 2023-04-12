@@ -15,7 +15,7 @@ tag: [Big Data, 보안]
 ---
 
 # 머리말
-<div class="notice--info">
+<div class="notice--success">
 <h4>"단 두 종류의 회사가 있다.  해킹 당한 회사, 해킹 당한 사실을 모르는 회사"<br/><br/>
 세계경제포럼(WEF) / Kaspersky</h4>
 </div>
