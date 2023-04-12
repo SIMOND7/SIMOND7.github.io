@@ -16,8 +16,8 @@ tag: [Big Data, 보안]
 
 # 머리말
 <div class="notice--info">
-<h4>"인더스트리 4.0 인간과 기계의 상호보완이 결정할 것"<br/><br/>
-Henning Kagermann / 마이클 포터</h4>
+<h4>"단 두 종류의 회사가 있다.  해킹 당한 회사, 해킹 당한 사실을 모르는 회사"<br/><br/>
+세계경제포럼(WEF) / Kaspersky</h4>
 </div>
 <br/>
 
