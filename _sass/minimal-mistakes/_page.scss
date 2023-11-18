@@ -74,10 +74,10 @@ body {
   color: mix(#ff0000, $primary-color, 40%);
 
 
-  a {
-    color: mix(#ff0000, $primary-color, 40%);
-    text-decoration: none;
-  }
+  // a {
+  //   color: mix(#ff0000, $primary-color, 40%);
+  //   text-decoration: none;
+  // }
 
   & + .page__meta {
     margin-top: -0.5em;
