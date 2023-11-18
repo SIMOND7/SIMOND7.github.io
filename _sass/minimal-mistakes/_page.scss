@@ -71,13 +71,13 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-  color: mix(#ff0000, $primary-color, 40%);
+  color: red;
 
 
-  // a {
-  //   color: mix(#ff0000, $primary-color, 40%);
-  //   text-decoration: none;
-  // }
+  a {
+    color: red;
+    text-decoration: none;
+  }
 
   & + .page__meta {
     margin-top: -0.5em;
