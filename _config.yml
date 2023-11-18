@@ -108,7 +108,7 @@ author:
   avatar           : "/images/화면 캡처 2023-03-21 102253.png"
   bio              : "이진우의 IT 블로그입니다.<br/>**카테고리**를 클릭해주세요!"
   location         : "<span style='color: blue;'>South Korea</span>"
-  email            : #이메일 주소
+  email            : "ninjakyle@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
