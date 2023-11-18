@@ -75,7 +75,7 @@ body {
 
 
   a {
-    color: $text-color;
+    color: mix(#ff0000, $primary-color, 40%);
     text-decoration: none;
   }
 
